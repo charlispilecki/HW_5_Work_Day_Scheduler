@@ -58,32 +58,7 @@ var defaultTimeData = [
         Hour: "5 PM",
         Military: 17,
         Desc: ""
-    },
-    {
-        Hour: "6 PM",
-        Military: 18,
-        Desc: ""
-    },
-    {
-        Hour: "7 PM",
-        Military: 19,
-        Desc: ""
-    },
-    {
-        Hour: "8 PM",
-        Military: 20,
-        Desc: ""
-    },
-    {
-        Hour: "9 PM",
-        Military: 21,
-        Desc: ""
-    },
-    {
-        Hour: "10 PM",
-        Military: 22,
-        Desc: ""
-    },
+    }
 ]
 
 
