@@ -9,3 +9,7 @@ For this project, I worked with HTML, CSS (including Bootstrap), and Javascript 
 ![Screenshot_3](img/Screenshot_3.png)
 
 ## Links
+https://github.com/charlispilecki/HW_5_Work_Day_Scheduler
+https://charlispilecki.github.io/HW_5_Work_Day_Scheduler/
+
+
